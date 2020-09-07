@@ -17,6 +17,8 @@ dracula:
     - &PURPLE "#BD93F9"
     - &RED "#FF5555"
     - &YELLOW "#F1FA8C"
+    - &LIGHTGOLDENRODYELLOW "#FAFAD2"
+    - &LIGHTCORAL "#f08080"
   ansi:
     - &COLOR0 "#21222C"
     - &COLOR1 "#FF5555"
@@ -639,7 +641,7 @@ tokenColors:
       - constant
       - variable.other.constant
     settings:
-      foreground: *PURPLE
+      foreground: *LIGHTGOLDENRODYELLOW
 
   - name: Constant escape sequences
     scope:
@@ -1017,7 +1019,7 @@ tokenColors:
       - variable.other.constant.ts # Fixes incorrect highlighting of pseudo-constants in ts
       - variable.other.constant.tsx # Fixes incorrect highlighting of pseudo-constants in tsx
     settings:
-      foreground: *FG
+      foreground: *LIGHTCORAL
 
   - name: Destructuring / aliasing reference name (LHS)
     scope:
