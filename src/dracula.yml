@@ -7,7 +7,7 @@ semanticClass: theme.dracula
 semanticHighlighting: true
 dracula:
   base:
-    - &BG        '#282A36'
+    - &BG        '#202020'
     - &FG        '#F8F8F2'
     - &SELECTION '#44475A'
     - &COMMENT   '#6272A4'
@@ -45,10 +45,10 @@ dracula:
     - &WHITE         '#FFFFFF'
     - &TAB_DROP_BG   '#44475A70'
     # UI Variants
-    - &BGLighter     '#424450'
-    - &BGLight       '#343746' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#21222C' # HSV (234.55, 25   , 17.25)
-    - &BGDarker      '#191A21' # HSV (234.55, 25   , 13   )
+    - &BGLighter     '#2e2e2e'
+    - &BGLight       '#262626' # HSV (230   , 25.71, 27.45)
+    - &BGDark        '#1c1c1c' # HSV (234.55, 25   , 17.25)
+    - &BGDarker      '#171717' # HSV (234.55, 25   , 13   )
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
