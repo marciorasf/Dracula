@@ -1,6 +1,6 @@
 {
-	"name": "theme-darcula",
-	"version": "2.22.1",
+	"name": "theme-darkula",
+	"version": "0.0.0",
 	"displayName": "Darkula",
 	"homepage": "",
 	"description": "Darker and less blueish Dracula theme",
@@ -33,7 +33,7 @@
 		"url": "https://github.com/marciorasf/vscode-darkula/issues"
 	},
 	"engines": {
-		"vscode": "^1.13.0"
+		"vscode": "^1.22.0"
 	},
 	"categories": [
 		"Themes"
@@ -62,6 +62,9 @@
 		"js-yaml": "^3.13.1",
 		"prettier": "^1.19.1",
 		"tinycolor2": "^1.4.1",
-		"vsce": "^1.74.0"
+		"vsce": "^1.79.5"
+	},
+	"dependencies": {
+		"global": "^4.4.0"
 	}
 }
