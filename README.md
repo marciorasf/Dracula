@@ -1,24 +1,15 @@
 # Dracula for [Visual Studio Code](http://code.visualstudio.com)
 
-> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+> A dark theme for [Visual Studio Code](http://code.visualstudio.com) based on [Dracula]((https://draculatheme.com/visual-studio-code)).
 
-![Screenshot](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
+## Features
+ > Darker and less blueish
+ > Enhanced highlight syntax for Typescript/Javascript and Python
+
 
 ## Install
 
-All instructions can be found at [draculatheme.com/visual-studio-code](https://draculatheme.com/visual-studio-code).
-
-## Team
-
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio-code/graphs/contributors).
-
-[![Derek S.](https://avatars3.githubusercontent.com/u/5240018?v=3&s=70)](https://github.com/dsifford) |
-:---: |
-[Derek S.](https://github.com/dsifford) |
-
-## Contributing
-
-If you'd like to contribute to this theme, please read the [contributing guidelines](./.github/CONTRIBUTING.md).
+All instructions can be found at [draculatheme.com/visual-studio-code]. You can also install it from the extensions tab on VSCode.
 
 ## License
 
