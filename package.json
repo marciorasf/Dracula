@@ -1,10 +1,10 @@
 {
-	"name": "theme-dracula",
+	"name": "theme-darcula",
 	"version": "2.22.1",
 	"displayName": "Darkula",
 	"homepage": "",
-	"description": "Dracula based theme, but darker and less blueish",
-	"publisher": "darkula-theme",
+	"description": "Darker and less blueish Dracula theme",
+	"publisher": "marciorasf",
 	"license": "MIT",
 	"scripts": {
 		"build": "node ./scripts/build.js",
