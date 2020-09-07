@@ -151,7 +151,7 @@ colors:
   # Side Bar
   sideBar.background: *BG # Side Bar background color
   sideBar.foreground: # Side Bar foreground color. The Side Bar is the container for views like Explorer and Search
-  sideBar.border: !alpha [*PINK, 20]# Side Bar border color on the side separating the editor
+  sideBar.border: !alpha [*PINK, 20] # Side Bar border color on the side separating the editor
   sideBarTitle.foreground: *FG # Side Bar title foreground color
   sideBarSectionHeader.background: *BG # Side Bar section header background color
   sideBarSectionHeader.foreground: # Side Bar section header foreground color
