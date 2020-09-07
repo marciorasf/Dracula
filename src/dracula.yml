@@ -2,7 +2,6 @@ name: Dracula
 author: Zeno Rocha
 maintainers:
   - Marcio R A Souza Filho <marciorasf@gmail.com>
-  - Derek P Sifford <dereksifford@gmail.com>
 semanticClass: theme.dracula
 semanticHighlighting: true
 dracula:
@@ -74,11 +73,11 @@ colors:
   terminal.ansiWhite: *COLOR7
 
   # Contrast Colors
-  contrastBorder: *BGDarker                                                     # An extra border around elements to separate them from others for greater contrast
+  contrastBorder: *BGDark                                                     # An extra border around elements to separate them from others for greater contrast
   contrastActiveBorder:                                                         # An extra border around active elements to separate them from others for greater contrast
 
   # Base Colors
-  focusBorder: *COMMENT                                                         # Overall border color for focused elements. This color is only used if not overridden by a component
+  focusBorder:                                                                  # Overall border color for focused elements. This color is only used if not overridden by a component
   foreground: *FG                                                               # Overall foreground color. This color is only used if not overridden by a component
   widget.shadow:                                                                # Shadow color of widgets such as Find/Replace inside the editor
   selection.background: *PURPLE                                                 # Background color of text selections in the workbench (for input fields or text areas, does not apply to selections within the editor and the terminal)
@@ -138,31 +137,31 @@ colors:
   list.focusForeground:                                                         # List/Tree foreground color for the focused item when the list/tree is active. An active list/tree has keyboard focus, an inactive does not
 
   # Activity Bar
-  activityBar.background: *BGLight                                              # Activity Bar background color
+  activityBar.background: *BGDark                                               # Activity Bar background color
   activityBar.inactiveForeground: *COMMENT                                      # Activity bar item foreground color when it is inactive
   activityBar.dropBackground:                                                   # Drag and drop feedback color for the Activity Bar items
   activityBar.foreground: *FG                                                   # Activity bar foreground color (for example used for the icons)
   activityBar.border:                                                           # Activity Bar border color with the Side Bar
-  activityBar.activeBorder: !alpha [*PINK, 80]                                  # Activity Bar indicator color
+  activityBar.activeBorder: !alpha [*PINK, 95]                                  # Activity Bar indicator color
   activityBar.activeBackground: !alpha [*PURPLE, 10]                            # Activity Bar indicator background color
   activityBarBadge.background: *PINK                                            # Activity notification badge background color
   activityBarBadge.foreground: *FG                                              # Activity notification badge foreground color
 
   # Side Bar
-  sideBar.background: *BGDark                                                   # Side Bar background color
+  sideBar.background: *BG                                                       # Side Bar background color
   sideBar.foreground:                                                           # Side Bar foreground color. The Side Bar is the container for views like Explorer and Search
   sideBar.border:                                                               # Side Bar border color on the side separating the editor
   sideBarTitle.foreground: *FG                                                  # Side Bar title foreground color
   sideBarSectionHeader.background: *BG                                          # Side Bar section header background color
   sideBarSectionHeader.foreground:                                              # Side Bar section header foreground color
-  sideBarSectionHeader.border: *BGDarker                                        # Side bar section header border color
+  sideBarSectionHeader.border: *BGDark                                          # Side bar section header border color
 
   # Editor Group & Tabs
   editorGroup.background:                                                       # Background color of an editor group. The background color shows up when dragging editor groups around
   editorGroup.border: *PURPLE                                                   # Color to separate multiple editor groups from each other
   editorGroup.dropBackground: *TAB_DROP_BG                                      # Background color when dragging editors around
   editorGroupHeader.noTabsBackground:                                           # Background color of the editor group title header when Tabs are disabled
-  editorGroupHeader.tabsBackground: *BGDarker                                   # Background color of the Tabs container
+  editorGroupHeader.tabsBackground: *BGDark                                     # Background color of the Tabs container
   editorGroupHeader.tabsBorder:                                                 # Border color of the editor group title header when tabs are enabled. Editor groups are the containers of editors
   tab.activeBackground: *BG                                                     # Active Tab background color
   tab.activeForeground: *FG                                                     # Active Tab foreground color in an active group
