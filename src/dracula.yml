@@ -1,8 +1,8 @@
-name: Dracula
+name: Darkula
 author: Zeno Rocha
 maintainers:
   - Marcio R A Souza Filho <marciorasf@gmail.com>
-semanticClass: theme.dracula
+semanticClass: theme.darkula
 semanticHighlighting: true
 dracula:
   base:
