@@ -16,6 +16,15 @@
 	"maintainers": [
 		"Márcio R A Souza Filho <marciorasf@gmail.com>"
 	],
+	"contributors": [
+		"Derek P Sifford <dereksifford@gmail.com>",
+		"Krzysztof Wisznarewski",
+		"Daniel Ramos",
+		"Eric Jackson",
+		"Elliott Pogue",
+		"Ajit Singh",
+		"Teddy Bradford"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/marciorasf/vscode-darkula.git"

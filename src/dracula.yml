@@ -1,6 +1,7 @@
 name: Dracula
 author: Zeno Rocha
 maintainers:
+  - Marcio R A Souza Filho <marciorasf@gmail.com>
   - Derek P Sifford <dereksifford@gmail.com>
 semanticClass: theme.dracula
 semanticHighlighting: true
