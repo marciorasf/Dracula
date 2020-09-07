@@ -301,7 +301,7 @@ colors:
 
   # Panel Colors
   panel.background: *BG # Panel background color
-  panel.border: *PURPLE # Panel border color on the top separating to the editor
+  panel.border: !alpha [*PURPLE, 70] # Panel border color on the top separating to the editor
   panelTitle.activeBorder: *PINK # Border color for the active panel title
   panelTitle.activeForeground: *FG # Title color for the active panel
   panelTitle.inactiveForeground: *COMMENT # Title color for the inactive panel
@@ -376,7 +376,7 @@ colors:
   settings.numberInputBorder: *BGDarker # Number input box border
 
   # Breadcrumbs
-  breadcrumb.foreground: *COMMENT # Color of breadcrumb items
+  breadcrumb.foreground: *COLOR12 # Color of breadcrumb items
   breadcrumb.background: *BG
   breadcrumb.focusForeground: *FG # Color of focused breadcrumb items
   breadcrumb.activeSelectionForeground: *FG # Color of selected breadcrumb items
