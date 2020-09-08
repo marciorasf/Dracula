@@ -78,7 +78,7 @@ colors:
   contrastActiveBorder: # An extra border around active elements to separate them from others for greater contrast
 
   # Base Colors
-  focusBorder: # Overall border color for focused elements. This color is only used if not overridden by a component
+  focusBorder: !alpha [*PURPLE, 60] # Overall border color for focused elements. This color is only used if not overridden by a component
   foreground: *FG # Overall foreground color. This color is only used if not overridden by a component
   widget.shadow: *BGDarker # Shadow color of widgets such as Find/Replace inside the editor
   selection.background: *PURPLE # Background color of text selections in the workbench (for input fields or text areas, does not apply to selections within the editor and the terminal)
