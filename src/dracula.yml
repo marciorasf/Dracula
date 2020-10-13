@@ -17,7 +17,7 @@ dracula:
     - &PURPLE "#BD93F9"
     - &RED "#FF5555"
     - &YELLOW "#F1FA8C"
-    - &LIGHTGOLDENRODYELLOW "#f2f2a0"
+    - &LIGHTGOLDENRODYELLOW "#F2F2A0"
   ansi:
     - &COLOR0 "#21222C"
     - &COLOR1 "#FF5555"
@@ -40,7 +40,7 @@ dracula:
     - &TEMP_QUOTES "#E9F284"
     - &TEMP_PROPERTY_QUOTES "#8BE9FE"
   other:
-    - &LineHighlight "#44475A75"
+    - &LineHighlight "#52566E75"
     - &NonText "#FFFFFF1A"
     - &WHITE "#FFFFFF"
     - &TAB_DROP_BG "#44475A70"
