@@ -17,6 +17,7 @@ Install it from VS Code extensions tab.
 
 For manual installation, all instructions can be found at [Dracula Official](draculatheme.com/visual-studio-code).
 
+<br />
 
 ## License
 
