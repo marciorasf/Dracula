@@ -8,7 +8,7 @@ A dark theme for [Visual Studio Code](http://code.visualstudio.com) based on [Dr
 
 - Darker and less blueish then original dracula.
 
-- Enhanced highlight syntax for Typescript/Javascript and Python.
+- Always improving the highlight configs on the languages that the author uses: TypeScript/JavaScript, Python, Elixir.
 
 <br />
 
