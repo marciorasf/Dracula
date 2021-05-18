@@ -5,6 +5,7 @@ A dark theme for [Visual Studio Code](http://code.visualstudio.com) based on [Dr
 <br />
 
 ## Features
+
 - Darker and less blueish then original dracula.
 
 - Enhanced highlight syntax for Typescript/Javascript and Python.
