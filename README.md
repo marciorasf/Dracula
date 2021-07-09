@@ -1,14 +1,14 @@
 # Darkula
 
-A dark theme for [Visual Studio Code](http://code.visualstudio.com) based on [Dracula]((https://draculatheme.com/visual-studio-code)).
+My personal version of [Dracula]((https://draculatheme.com/visual-studio-code)) for [Visual Studio Code](http://code.visualstudio.com).
 
 <br />
 
 ## Features
 
-- Darker and less blueish then original dracula.
+- Darker and less blueish then the original dracula.
 
-- Always improving the highlight configs on the languages that the author uses: TypeScript/JavaScript, Python, Elixir.
+- Always improving the highlight configs on the following languages: TypeScript/JavaScript, Python.
 
 <br />
 
