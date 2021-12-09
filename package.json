@@ -8,9 +8,7 @@
 	"license": "MIT",
 	"scripts": {
 		"build": "node ./scripts/build.js",
-		"lint": "node ./scripts/lint.js",
-		"package": "vsce package -o ./bin/dracula.vsix",
-		"vsce-publish": "vsce publish"
+		"lint": "node ./scripts/lint.js"
 	},
 	"maintainers": [
 		"Márcio R A Souza Filho <marciorasf@gmail.com>"
