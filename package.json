@@ -1,7 +1,7 @@
 {
 	"name": "theme-darkula",
 	"version": "0.0.15",
-	"displayName": "Darkula",
+	"displayName": "Marciorasf's Dracula",
 	"homepage": "",
 	"description": "Darker and less blueish Dracula theme",
 	"publisher": "marciorasf",
@@ -26,10 +26,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/marciorasf/vscode-darkula.git"
+		"url": "https://github.com/marciorasf/Dracula.git"
 	},
 	"bugs": {
-		"url": "https://github.com/marciorasf/vscode-darkula/issues"
+		"url": "https://github.com/marciorasf/Dracula/issues"
 	},
 	"engines": {
 		"vscode": "^1.22.0"
@@ -51,7 +51,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Darkula",
+				"label": "Dracula",
 				"uiTheme": "vs-dark",
 				"path": "./theme/dracula.json"
 			}
